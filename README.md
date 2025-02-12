@@ -29,6 +29,12 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RobertLynch21&theme=github-dark)
 
 ---
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231F7A8C&lines=👻+Welcome+to+R3B00T's+Profile!+;💻+Full-Stack+Developer!+;😈+Cybersecurity+Enthusiast!)](https://git.io/typing-svg)
+
+---
 ### 🔗 Connect With Me  
 [![X (Twitter)](https://img.shields.io/badge/X-Connect-black?style=flat&logo=twitter)](https://twitter.com/Ravenmight)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/robertflynch/)  
