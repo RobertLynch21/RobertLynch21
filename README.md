@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231F7A8C&lines=👻+Welcome+to+R3B00T's+Profile!+;💻+Full-Stack+Developer!+;😈+Cybersecurity+Enthusiast!)](https://git.io/typing-svg)
+
 👻 Beware... I mean, Welcome! I’m R3B00T, a developer who loves building cool things, breaking bad code, and haunting the cybersecurity world. Enjoy your stay!
 
 💻 **Software Engineer | Full-Stack Developer | Cybersecurity Enthusiast**  
@@ -22,17 +24,8 @@
 
 ### 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertLynch21&show_icons=true&theme=dark) 
-
-
 ---
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RobertLynch21&theme=github-dark)
-
----
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231F7A8C&lines=👻+Welcome+to+R3B00T's+Profile!+;💻+Full-Stack+Developer!+;😈+Cybersecurity+Enthusiast!)](https://git.io/typing-svg)
 
 ---
 ### 🔗 Connect With Me  
