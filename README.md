@@ -32,13 +32,13 @@
 ---
 
 ### 🔗 Connect With Me  
-[![X (Twitter)](https://img.shields.io/badge/X-Connect-black?style=flat&logo=twitter)](https://twitter.com/Ravenmight)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/robertflynch/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox)](https://robertlynch.dev/)    
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RobertLynch21&theme=dark)
+| [![X (Twitter)](https://img.shields.io/badge/X-Connect-black?style=flat&logo=twitter)](https://twitter.com/Ravenmight) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/robertflynch/) | [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox)](https://robertlynch.dev/) |
+|--|--|--|
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertLynch21&layout=compact&theme=dark)
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RobertLynch21&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertLynch21&layout=compact&theme=dark) |
+|--|--|
+
 
 ### 🎭 Custom ASCII Art  
 ```
@@ -53,7 +53,9 @@
 | | |____| |___| | || |   \______.'  | || |  |_______/   | || |   '.____.'   | || |   '.____.'   | || |   |_____|    | |
 | |              | || |              | || |              | || |              | || |              | || |              | |
 | '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
- '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------' 
+ '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'
+
+     🛠️ SYSTEM R3B00T INITIATED... 🔥
 
 ```
 
