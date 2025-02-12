@@ -21,11 +21,14 @@
 ---
 
 ### 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertLynch21&show_icons=true&theme=dark)  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RobertLynch21&theme=github-dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertLynch21&show_icons=true&theme=dark) 
 
 
 ---
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RobertLynch21&theme=github-dark)
+
+---
 ### 🔗 Connect With Me  
 [![X (Twitter)](https://img.shields.io/badge/X-Connect-black?style=flat&logo=twitter)](https://twitter.com/Ravenmight)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/robertflynch/)  
