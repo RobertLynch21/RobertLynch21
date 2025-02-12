@@ -18,12 +18,11 @@
 ### 🛠 Tech Stack  
 - **Languages:** HTML, CSS, JavaScript, C#, Python, SQL  
 - **Frameworks/Libraries:** React, Node.js, Express, .NET  
-- **Tools:** Git, PostgreSQL, Linux (Mint)  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,git,js,linux,mint,mysql,nodejs,npm,postgres,postman,py,react,svelte,vscode,wordpress,vue,cs&perline=4)](https://skillicons.dev)
+- **Tools:** Git, PostgreSQL, Linux (Mint)
+
 ---
 
-### 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertLynch21&show_icons=true&theme=dark) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,git,js,linux,mint,mysql,nodejs,npm,postgres,postman,py,react,svelte,vscode,wordpress,vue,cs&perline=10)](https://skillicons.dev)
 
 ---
 
@@ -39,8 +38,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RobertLynch21&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertLynch21&layout=compact&theme=dark)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RobertLynch21&theme=darkhub)
 
 ### 🎭 Custom ASCII Art  
 ```
