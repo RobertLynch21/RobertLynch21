@@ -17,7 +17,7 @@
 - **Languages:** HTML, CSS, JavaScript, C#, Python, SQL  
 - **Frameworks/Libraries:** React, Node.js, Express, .NET  
 - **Tools:** Git, PostgreSQL, Linux (Mint)  
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ---
 
 ### 📈 GitHub Stats  
