@@ -1,4 +1,4 @@
-# 👋 Hey, I'm R3b00T!
+👻 Beware... I mean, Welcome! I’m R3B00T, a developer who loves building cool things, breaking bad code, and haunting the cybersecurity world. Enjoy your stay!
 
 💻 **Software Engineer | Full-Stack Developer | Cybersecurity Enthusiast**  
 📍 Fort White, FL | 🇺🇸 American-Owned Tech Enthusiast  
