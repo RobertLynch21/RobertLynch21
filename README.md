@@ -26,6 +26,7 @@
 ---
 
 ### 🔗 Connect With Me  
+[![X (Twitter)](https://img.shields.io/badge/X-Connect-black?style=flat&logo=twitter)](https://twitter.com/Ravenmight)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/robertflynch/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox)](https://robertlynch.dev/)    
 
