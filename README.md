@@ -16,9 +16,9 @@
 ---
 
 ### 🛠 Tech Stack  
-- **Languages:** | Javascript | Python | C# | Jquery | HTML | CSS
-- **Frameworks/Libraries:** | React | Nodejs | Vuejs | Express | Redux | Wordpress | .NET
-- **Tools:** | PostgreSQL | mySQL | Git | Github | Command Line | MVC | Stripe
+- **Languages:** Javascript | Python | C# | Jquery | HTML | CSS
+- **Frameworks/Libraries:** React | Nodejs | Vuejs | Express | Redux | Wordpress | .NET
+- **Tools:** PostgreSQL | mySQL | Git | Github | Command Line | MVC | Stripe
 - **Operating System:** Linux Mint | Windows XP, 7, 10, 11
 
 ---
