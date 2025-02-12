@@ -26,8 +26,8 @@
 ---
 
 ### 🔗 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/robertflynch/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox)]((https://robertlynch.dev/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/robertflynch/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox)](https://robertlynch.dev/)    
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RobertLynch21&theme=dark)
 
