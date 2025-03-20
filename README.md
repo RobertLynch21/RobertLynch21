@@ -23,7 +23,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,git,js,linux,mint,mysql,nodejs,npm,postgres,postman,py,react,svelte,vscode,wordpress,vue,cs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,dotnet,git,js,linux,mint,mysql,nodejs,npm,postgres,postman,py,react,svelte,vscode,wordpress,vue,cs&perline=10)](https://skillicons.dev)
 
 ---
 
