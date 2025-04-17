@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[toDoApp](https://github.com/RobertLynch21/toDoApp)**  
+- 🔭 I’m currently working on **[toDoApp](https://github.com/RobertLynch21/mern-todo)**  
 - 🌱 I’m learning **C#, .NET, Python, JavaScript, and Cyber Security**  
 - 🦾 My goal: **Work at Tesla, SpaceX, or Starlink**  
 - 🎃 Fun fact: I love all things spooky and Halloween-themed 👻  
